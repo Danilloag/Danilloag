@@ -17,4 +17,5 @@ Atualmente, trabalho como analista de laboratório - nada a ver com tecnologia, 
 :running: React.js
 
 Contato: https://www.linkedin.com/in/danilloag/
+
 Veja alguns dos meus projetos funcionando: https://vercel.com/danilloag
