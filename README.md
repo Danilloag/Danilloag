@@ -1,16 +1,20 @@
-### Hi there 👋
+### Seja bem vindo ao meu perfil! 👋
 
-<!--
-**Danilloag/Danilloag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Danillo, 27 anos e apaixonado por tecnologia. Há 2 anos tenho estudado o desenvolvimento web e me encantado com este mundo.
 
-Here are some ideas to get you started:
+Atualmente, trabalho como analista de laboratório - nada a ver com tecnologia, eu sei. Paralelamente, estudo programação (com foco no Front End) e busco um espaço no mercado de tecnologia como Dev Junior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:ok_hand: ESTUDOS FINALIZADOS:
+
+:arrow_forward: HTML e CSS
+
+:punch: ESTUDOS EM ANDAMENTO:
+
+:green_heart: JavaScript
+
+:hourglass_flowing_sand: PRÓXIMO PASSO:
+
+:running: React.js
+
+
+Contato: https://www.linkedin.com/in/danilloag/
