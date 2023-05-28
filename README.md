@@ -6,13 +6,9 @@ Atualmente, trabalho como analista de laboratório - nada a ver com tecnologia, 
 
 :ok_hand: ESTUDOS FINALIZADOS:
 
-:arrow_forward: HTML e CSS
+:arrow_forward: HTML, CSS e JavaScript
 
 :punch: ESTUDOS EM ANDAMENTO:
-
-:green_heart: JavaScript
-
-:hourglass_flowing_sand: PRÓXIMO PASSO:
 
 :running: React.js
 
